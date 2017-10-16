@@ -1,2 +1,1 @@
-# Cobra
-Bayesian Pulsar Searching
+Repo for Cobra 

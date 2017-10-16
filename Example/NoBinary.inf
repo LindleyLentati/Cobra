@@ -1,0 +1,25 @@
+ Data file name without suffix          =  NoBinary
+ Telescope used                         =  Parkes
+ Instrument used                        =  Unknown
+ Object being observed                  =  Scattered
+ J2000 Right Ascension (hh:mm:ss.ssss)  =  17:44:29.4075388
+ J2000 Declination     (dd:mm:ss.ssss)  =  -11:34:54.69415
+ Data observed by                       =  unset
+ Epoch of observation (MJD)             =  56000.010000000002037
+ Barycentered?           (1 yes, 0 no)  =  0
+ Number of bins in the time series      =  1500000    
+ Width of each time series bin (sec)    =  8e-05
+ Any breaks in the data? (1 yes, 0 no)  =  0
+ Type of observation (EM band)          =  Radio
+ Beam diameter (arcsec)                 =  828
+ Dispersion measure (cm-3 pc)           =  10
+ Central freq of low channel (MHz)      =  1399.609375
+ Total bandwidth (MHz)                  =  0.78125
+ Number of channels                     =  2
+ Channel bandwidth (MHz)                =  0.390625
+ Data analyzed by                       =  ltl21
+ Any additional notes:
+    Project ID unset, Date: 2012-03-14T00:14:24.
+    2 polns were summed.  Samples have 8 bits.
+
+
